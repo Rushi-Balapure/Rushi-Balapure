@@ -17,7 +17,7 @@ I am the most curious person you'll meet, and when you combine that with a love 
   <b>🌐 Socials:</b>
 </p>
 <div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rushi-balapure-75148022a/" target="_blank">
+  <a href="https://www.linkedin.com/in/rushi-balapure-75148022a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rushibalapure2003@gmail.com">
