@@ -1,14 +1,14 @@
 <!-- GitHub Profile README -->
 # Rushi Balapure
-### I build products for fun.
+### Building things I find interesting.
 
-<a href="https://www.linkedin.com/in/rushi-balapure-75148022a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> <a href="mailto:rushibalapure2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://rushibalapure.site" target="_blank"><img src="https://img.shields.io/badge/Website-f4f2eb?style=flat&logo=astro&logoColor=333" /></a> <a href="https://www.linkedin.com/in/rushi-balapure-75148022a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> <a href="mailto:rushibalapure2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 
 ---
 
 ### About Me
 
-I'm an engineer by nature — I tackle every problem, whether it's software, mechanical, or everyday, with the same engineering mindset.
+I'm an engineer by nature — I tackle every problem, whether it's software, mechanical, or everyday, with the same engineering mindset. Currently building enterprise security products at ProMobi Technologies, based out of Pune.
 
 ---
 
