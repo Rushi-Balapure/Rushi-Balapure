@@ -38,9 +38,6 @@ I'm an engineer by nature — I tackle every problem, whether it's software, mec
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rushi-Balapure&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     height="180"
   />
-  <img 
-    src="https://streak-stats.demolab.com?user=Rushi-Balapure&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" 
-  />
 </p>
 
 ---
